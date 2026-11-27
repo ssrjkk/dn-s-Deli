@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dikmans-deli.ru/sitemap.xml
+Sitemap: https://ssrjkk.github.io/dn-s-Deli/sitemap.xml
