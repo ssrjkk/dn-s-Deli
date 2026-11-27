@@ -5,7 +5,7 @@
 ## Живой сайт
 
 - GitHub Pages: https://ssrjkk.github.io/dn-s-Deli/
-- Страница указывает собственный домен https://dikmans-deli.ru/; DNS и TLS остаются ответственностью владельца.
+- Шаблон собственного домена: `CNAME.example` (`dikmans-deli.ru`). Активировать его только после покупки домена и настройки DNS.
 
 ## Скриншот
 
@@ -25,6 +25,7 @@ python -m http.server 8080
 - `assets/photos` — фотографии меню и витрины.
 - `assets/art` — логотип и иллюстрации.
 - `robots.txt` и `sitemap.xml` — метаданные для поисковых систем.
+- `CNAME.example`, `.nojekyll` и `404.html` — файлы поддержки собственного домена и GitHub Pages.
 
 ## Проверки
 

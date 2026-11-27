@@ -5,7 +5,7 @@ Static restaurant site for the menu, hot lunches, delivery and HoReCa supply inf
 ## Live
 
 - GitHub Pages: https://ssrjkk.github.io/dn-s-Deli/
-- The page declares the custom domain https://dikmans-deli.ru/; DNS and TLS remain the owner's responsibility.
+- Custom domain template: `CNAME.example` (`dikmans-deli.ru`). Activate it only after the domain is purchased and DNS is configured.
 
 ## Screenshot
 
@@ -25,6 +25,7 @@ Open http://localhost:8080/.
 - `assets/photos` — menu and storefront photography.
 - `assets/art` — logo and illustrations.
 - `robots.txt` and `sitemap.xml` — crawler metadata.
+- `CNAME.example`, `.nojekyll` and `404.html` — custom-domain and Pages support files.
 
 ## Checks
 
